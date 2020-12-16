@@ -1,0 +1,294 @@
+1.2  Commandez des pizzas en 
+ligne en quelques clics seulement.
+
+4. Commandez votre Pizza
+Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs.
+
+5. Un service rapide 
+
+6.Livraison dans les délais
+
+7.Se connecter 
+Entrez vos données de 
+connexion pour continuer.
+Email
+Mot De Passe
+Mot de passe oublié?
+Se connecter 
+Nouvel Utilisateur ? S'inscrire
+
+8.S'inscrire
+Vous devez créer un 
+compte pour continuer.
+Email
+Mot De Passe
+Numéro De Téléphone
+Mot De Passe
+S'inscrire
+Déjà utilisateur ?Se connecter 
+
+9.Mot de passe 
+oublié
+Entrez votre adresse électronique, nous vous enverrons un lien pour réinitialiser votre mot de passe.
+Email
+Continuer
+
+10.23, Simple Streets, France
+Livraison en 40 minutes
+20 % de réduction
+Spécialement sur 
+les snacks
+Près de chez vous
+Pizza France
+Pizzas fraîches
+15-20 minutes Livraison
+Nos pizzas populaires
+Accueil
+Menu
+Commandes
+Mon compte
+
+11.Points de vente
+Pizza France
+Pizzas fraîches
+15-20 minutes Livraison
+Pizzeria
+Pizzas fraîches
+15-20 minutes Livraison
+
+12.Menu
+1
+Testaisacienne
+À partir de 9 €
+Américaine
+Bacon Tasty
+Barracuda
+Chèvre miel
+Country
+
+13.Menu
+Testaisacienne
+Crème fraiche, oignons, 
+lardons de poulet, fromage
+ 9 €
+Info sur les restaurants
+Pizza France
+23, Simple Streets, France
+INGRÉDIENTS
+Crème fraiche
+Oignons
+Lardons de poulet
+Fromage
+Ajouter Un Ingrédient
+ÉPAISSEUR DE LA PÂTE
+Pâte fine
+Pate épaisse
+TAILLE DE VOTRE PIZZA
+Avec Cheesy crust
+Sans cheesy crust
+27 cm
+33 cm
+40 cm
+Ajouter 1 au panier                       9 €
+
+
+14. 9 €                        Voir le panier  
+
+15.Ma commande
+Testaisacienne                     9 €
+Crème fraiche, oignons, 
+lardons de poulet, fromage
+Américaine                         9 €
+Add Coupon Code
+PIZZA200
+Votre commande                     Ajouter des pizzas
+1    Testaisacienne
+1    Américaine
+total de l'article                  18 €
+Frais de livraison             5 €
+Remise                             2 €          
+Total                              23 €
+Détails de la livraison
+Adresse de livraison                  Changer
+23, Simple Streets, 
+Près Church gate, France   
+
+Infos sur les points de vente
+Pizza France
+ 32/A Christina Church, France
+Type d'ordre
+Ramasser
+Choisir l'heure de ramassage
+Heure de ramassage
+Mode de paiement                 Ajouter +
+**** **** **** 1243
+johnsmith@gmail.com
+Confirmation de l'ordre
+
+16.Ma commande
+ Livraison
+
+17.Commande acceptée
+Restez en contact, dans 50 min,
+Nous vous livrerons votre 
+commande à votre adresse.
+Continue
+
+18.Ma commande
+Numéro d'ordre #0908770
+Testaisacienne                       9 €
+Crème fraiche, oignons, 
+lardons de poulet, fromage
+Américaine
+Crème fraiche, oignons, 
+lardons de poulet, fromage
+Votre commande
+1    Testaisacienne
+1    Américaine
+Code promo appliqué                                            PIZZA200 
+total de l'article                                 18 €
+Frais de livraison                               5 €
+Remise                                         2 €
+Total                                    23 €
+Paiement effectué par 
+Détails de la livraison
+Adresse de livraison                                 Changer
+23, Simple Streets, 
+Près Church gate, France
+Infos sur les points de vente
+Pizza France
+32/A Christina Church, France
+Livraison par
+Clark Smith
++ 33 090 090 090
+Suivi de la commande
+Annuler la commande
+
+19.Annuler la livraison
+Vous êtes sûr de vouloir 
+annuler  votre commande ?
+Oui
+Non
+
+20.Suivre votre commande
+Temps de livraison estimé
+19h30
+Commande confirmée
+Livraison en cours de route
+Commande livrée.
+
+21.Commande livrée
+Votre commande a été livrée, 
+veuillez évaluer notre service.
+Continuer
+
+22.Chat
+Salut
+23-04-2019, 2:59 PM
+Lorem Ipsum dummy text.Lorem Ipsum  
+23-04-2019, 2:59 PM
+Lorem Ipsum
+23-04-2019, 2:59 PM
+Tapez quelque chose
+
+23.Évaluation
+Votre livraison par
+Clark Smith
+Comment évaluez-vous le 
+service de livraison ?
+Commentaire additionnel
+Soumettre
+
+24.Commandes
+En cours
+Passé
+Numéro d'ordre #0908770
+Adresse - 23, Simple Streets, France 
+Date de livraison -  30.07.2020, 12 H 00
+Statut - Accepté
+Voir les détails
+
+25.Ma commande
+Numéro d'ordre #0908770
+Testaisacienne
+Crème fraiche, oignons, 
+lardons de poulet, fromage
+Américaine
+Crème fraiche, oignons, 
+lardons de poulet, fromage
+Livraison par
+Clark Smith
++ 33 090 090 090
+
+26.Mon Profil
+John Smith
+Mon Profil
+Mes favoris
+Paiement
+Paramètres
+Inviter des amis
+Soutien
+Déconnexion
+
+27.Mon Profil
+Nom
+Téléphone
+Email
+Langue
+ Pays
+John Smith
++ 33 0220 2020 2022
+johnsmith@gmail.com
+Française
+France
+
+28.Editer le Profil
+Nom
+Numéro de téléphone
+Email
+Langue
+Sauver
+
+29.Mes favoris
+Testaisacienne
+Américaine
+À partir de 9 €
+
+30.Paiement
+xxxx xxxx xxxx 9090
+xxxx xxxx xxxx 9078
++ Ajouter une carte
+
+31.Supprimer la carte
+Êtes-vous sûr de vouloir 
+supprimer la carte
+Oui
+Non
+
+32.Paiement
+Votre Email
+Nom Sur La Carte
+Numero De Carte
+Mois D'expiration
+Année D'expiration
+CVV
++ Ajouter une carte
+
+
+33.Paramètres
+Changer de mot de passe
+Supprimer un compte
+Termes et conditions
+Politique de confidentialité
+
+34.Supprimer un compte
+Êtes-vous sûr de vouloir supprimer votre compte ? Si vous supprimez votre compte, vous ne pourrez pas le réactiver tardivement
+Oui
+Non
+
+35.Soutien
+Appelez notre service clientèle
+Envoyez un message à notre service clientèle
+Questions fréquemment posées
+Requête concernant les délais de livraison
+
